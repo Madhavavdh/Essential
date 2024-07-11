@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="042e7685-7256-44fe-a630-3ef8671339da" name="Changes" comment="Commiting and pushing changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Madhavavdh/EssentialProject.git",
+    "url": "https://github.com/Madhavavdh/Essential.git",
     "accountId": "6b1910f3-8ce3-42cd-ab5f-11cb0ffb75f2"
   }
 }]]></component>
